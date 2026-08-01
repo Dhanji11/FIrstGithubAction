@@ -1,0 +1,2 @@
+# FIrstGithubAction
+practicing github actions
